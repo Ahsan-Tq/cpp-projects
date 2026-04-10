@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, AI Course!" << endl;
+    cout << "Hello, Course!" << endl;
     return 0;
 }
-// 
